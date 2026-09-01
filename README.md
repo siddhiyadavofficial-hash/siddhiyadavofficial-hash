@@ -61,10 +61,8 @@ Data Structures      ░░░░░░░░░░  Coming Soon
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <imghabaksbsjabsbab
-
----
+  <img src="https://share.google/bGdIgSsdvp8GdvEe6xyz.pvt
+---this is panda image 
 
 ## 🔥 GitHub Streak
 <p align="center">

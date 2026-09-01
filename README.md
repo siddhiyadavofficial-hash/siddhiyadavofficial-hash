@@ -61,8 +61,8 @@ Data Structures      ░░░░░░░░░░  Coming Soon
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://share.google/bGdIgSsdvp8GdvEe6xyz.pvt
----this is panda image 
+  <img src=xyz.pvt this is panda image
+--- 
 
 ## 🔥 GitHub Streak
 <p align="center">

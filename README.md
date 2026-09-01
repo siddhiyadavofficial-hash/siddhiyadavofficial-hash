@@ -68,7 +68,9 @@ Data Structures      ░░░░░░░░░░  Coming Soon
 ---
 
 ## 🔥 GitHub Streak
-<p align="center"> <img src="https://img.shields.io/badge/Current%20Time-IST-blue?style=for-the-badge" /> </p>
+<p align="center">
+  <img src="https://YOUR-DYNAMIC-TIME-URL" alt="Current Date and Time" />
+</p>
 
 ---
 
